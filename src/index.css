@@ -12,7 +12,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(rgba(0, 0, 3, 0.548),rgba(0, 0, 2, 0.534)) ,url('Images/bg-1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 3, 0.548),rgba(0, 0, 2, 0.534)) ,url('./assets/Images/bg-1.jpg');
   background-position: center;
   background-size: cover;
   font-family: "Inter", sans-serif;
